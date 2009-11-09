@@ -1,0 +1,6 @@
+- @tasks.each do |task|
+  .task
+    .name=task.name
+    =link_to_remote "Delete", :confirm => "really?", :url => task_path(task), :method => :delete
+#create-task
+  = link_to "New task", new_task_url

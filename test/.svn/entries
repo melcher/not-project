@@ -1,0 +1,77 @@
+10
+
+dir
+63
+http://pimpmybackend.svn.beanstalkapp.com/pimpmybackend/not_project/test
+http://pimpmybackend.svn.beanstalkapp.com/pimpmybackend
+
+
+
+2009-11-09T03:17:18.725424Z
+63
+melcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a3ef43b0-4377-4537-bf9e-f41e43820fe7
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2009-10-18T01:25:34.000000Z
+e297614c72684d065aef001f86188732
+2009-11-09T03:17:18.725424Z
+63
+melcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1800
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

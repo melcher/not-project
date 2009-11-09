@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  user: 
+  name: MyString
+  estimate: 1.5
+  state: MyString
+  category: 
+  order: 1
+
+two:
+  user: 
+  name: MyString
+  estimate: 1.5
+  state: MyString
+  category: 
+  order: 1

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pimpmybackend/!svn/ver/63/not_project/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/session_store.rb
+END
+compass.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/compass.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pimpmybackend/!svn/ver/63/not_project/config/initializers/mime_types.rb
+END

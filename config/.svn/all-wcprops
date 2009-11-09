@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/pimpmybackend/!svn/ver/63/not_project/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pimpmybackend/!svn/ver/63/not_project/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pimpmybackend/!svn/ver/63/not_project/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pimpmybackend/!svn/ver/63/not_project/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pimpmybackend/!svn/ver/63/not_project/config/environment.rb
+END
+compass.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pimpmybackend/!svn/ver/63/not_project/config/compass.config
+END

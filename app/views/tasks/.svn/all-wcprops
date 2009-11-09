@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks
+END
+show.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks/show.html.haml
+END
+show.yaml.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks/show.yaml.erb
+END
+index.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks/index.html.haml
+END
+home.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks/home.html.haml
+END
+new.html.haml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pimpmybackend/!svn/ver/63/not_project/app/views/tasks/new.html.haml
+END
